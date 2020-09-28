@@ -1,7 +1,5 @@
 # Kickstart-My-Chart
 
-#### -- Project Status: [Completed]
-
 ## Project Intro/Objective
 This project aims to understand what characteristics allow a project to achieve its intended crowdfund goal on Kickstarter. I will complete this objective via rigorous analysis and visualization of past Kickstarter project data on Excel. The derived insights that will enable more projects to succeed on Kickstarter in future.  
 
